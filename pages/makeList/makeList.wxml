@@ -1,0 +1,5 @@
+<view class="container1">
+  <view class="header">
+    <image bindtap="addList" class="plus" src="../../image/plus.png"/>
+  </view>
+</view>

@@ -10,8 +10,7 @@
 
   <view class="page">
     <view class="page__bd page__bd_spacing">
-      <button class="weui-btn" type="primary">向好友发送一份购物清单</button>
-      <button class="weui-btn" type="primary">向群聊发送一份购物清单</button>
+      <button bindtap="makeListViewTap" class="weui-btn" type="primary">创建购物清单</button>
     </view>
   </view>
 

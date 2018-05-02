@@ -2,14 +2,15 @@
   "pages":[
     "pages/index/index",
     "pages/logs/logs",
-    "pages/mainPage/mainPage",
-    "pages/myPage/myPage"
+    "pages/makeList/makeList",
+    "pages/myPage/myPage",
+    "pages/addList/addList"
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTitleText": "BestFriend代购",
+    "navigationBarTextStyle":"white"
   },
   "tabBar":{
     "color": "#dddddd",
